@@ -1,0 +1,159 @@
+Transformación digital:
+la clave de la reactivación socioeconómica de Colombia
+Si el 2020 nos trajo retos inesperados a nivel global que evidenció la importancia de estar conectados, el 2021 puso de manifiesto la urgencia de apresurar la transformación digital, pues varios
+analistas aseguran que la pandemia por Covid-19 aceleró de 5 a 10 años la adopción de nuevas
+herramientas tecnológicas en todas las esferas sociales. Hay quienes incluso argumentan que algunos procesos que pudieron suceder en 3 años tuvieron lugar en 40 días de aislamiento riguroso 1
+.
+Lo que sí está claro es que este panorama evidenció una nueva brecha: permanecen desconectados
+tanto quienes no tienen acceso a internet, como aquellos que cuentan con una conexión tradicional que
+no responde a las necesidades de esta aceleración. Por ejemplo, aproximadamente el 30% de los hogares de Bogotá, la ciudad más conectada de Colombia según MinTIC 2
+, no tiene acceso a internet, es decir
+833 mil de los 2.8 millones de hogares 3
+. Y solo el 26,9% de quienes cuentan con este servicio pueden
+disfrutar de la fibra óptica que permite altas velocidades y conectar múltiples dispositivos de manera
+simultánea, sin que la capacidad de la red se vea afectada.
+Teniendo en cuenta este nuevo escenario mundial y local, ETB desarrolla su
+estrategia corporativa enfocada en liderar la inclusión digital de todos los ciudadanos,
+contribuyendo con su bienestar para impulsar que Bogotá - Región sea un territorio
+cada vez más productivo y equitativo, gracias a nuestras soluciones digitales.
+2021, un año de velocidad
+En ese sentido, en el 2021 los esfuerzos estratégicos lograron consolidar la redistribución por tecnología de nuestra planta. Con orgullo podemos decir hoy que ETB es una empresa de fibra óptica, que
+además de revertir la tendencia decreciente de usuarios, al contrastar los 613 mil clientes de 2019 con
+los 676 mil clientes de 2021 del segmento de Hogares y Mipymes, ETB logró la recomposición de la
+distribución por tecnología de ese segmento, al pasar del 44% en el año 2019 al 66% en el año 2021, de
+los clientes navegando en fibra óptica.
+Así mismo, seguimos avanzando en el despliegue de la red pues en el último año aumentamos en 193
+mil el número de hogares pasados con esta tecnología para llegar a 1,6 millones, mientras que los hogares conectables crecieron hasta 1,5 millones; es decir, casi 318 mil más que en el 2020, gracias también
+a la estrategia enfocada en aprovechar las obras de la primera línea del Metro para migrar a los clientes
+de cobre hacia la tecnología de la fibra óptica.
+Estos índices de crecimiento adquieren un mayor sentido cuando los usuarios experimentan la mejor
+velocidad de conexión en el país. Por este motivo, recibimos con orgullo durante dos semestres el primer lugar en la categoría Fasted Fixed Network de los Speedtest AwardsTM® de Ookla®, (2S-2020 y 1S2021), impulsado en parte porque en febrero del año pasado fuimos la primera compañía en aumentar
+la velocidad de los hogares a 500 megas de velocidad. Este factor marcó la pauta en el mercado para
+que nuestros competidores hicieran lo propio al igualar o aumentar esta velocidad, lo que evidencia
+cómo ETB jalona el mercado en beneficio del desarrollo del país.
+En ese sentido, también cabe destacar que en el segundo año de la pandemia la alta exigencia a la red
+estuvo lejos de regresar a las cifras previas a este fenómeno mundial y ETB logró mantener las condiciones para garantizar el alto tráfico de la red al duplicar la capacidad de internet de 1.1Tb/s a 2.2 Tb/s
+y responder al incremento de 72% entre enero de 2020 y septiembre de 2021.
+Además, en línea con las tendencias mundiales, la compañía debía responder a la nueva forma de
+consumir contenidos y por esa razón, presentó una alianza con DIRECTV para la masificación del entretenimiento vía streaming, que les permitió a nuestros clientes de fibra óptica elegir para su plan fijo el
+servicio de DIRECTV GO y disfrutar, a través de internet, de 90 canales en vivo y más de 10 mil títulos de
+series y películas.
+Estrategia 20-30, primeros resultados
+Además de los frutos ya evidenciados en relación con el despliegue de fibra óptica y el crecimiento de la
+planta de clientes, el trabajo conjunto de los colaboradores ha llevado a registrar cifras positivas, de las
+que hoy vale la pena destacar las siguientes:
+•	 La mejor tasa de fallas técnicas de los últimos 3 años con un promedio de 7% en 2021 y cierre a diciembre de 5,5%.
+•	 85% de las instalaciones de FTTH en máximo 3 días. (76% en el 2019).
+•	 125% de cumplimiento en ventas de banda ancha con velocidades superiores a 50MB.
+•	 Cumplimiento del 114% en la meta de Planta FTTx y crecimiento del 42% en altas.
+•	 Reversión de la caída de los ingresos de MiPymes al pasar de $165 MM COP en 2020 a $170 MM COP en 2021.
+•	 Cierre del 2021 con el ISC más alto de la industria, con un valor de 8,04. (7,79 en 2019).
+•	 El segmento de Gobierno triplicó el cumplimiento de las metas en ventas.
+•	 La mejor latencia del mercado: 5 milisegundos.
+•	 ‘Club del 30%’: adición a esta iniciativa para impulsar la participación de las mujeres en Juntas Directivas.
+En relación con el segmento de Empresas y Ciudades Inteligentes, bajo el recién creado concepto de
+Cultura Inteligente, se ha promovido la construcción de ciudades y territorios en los que la tecnología
+esté al servicio de los habitantes y su bienestar. Así, hemos contribuido con los procesos de digitalización en la relación entre la administración pública y los ciudadanos, no solo en Bogotá sino en capitales
+como Valledupar, Barranquilla o Popayán.
+Resultados financieros acorde con el nivel de la industria
+Las finanzas corporativas también marcaron un hito positivo en los resultados de la compañía durante
+el 2021. Al cierre del año se registraron utilidades del periodo por $138.704 millones COP, ingresos por
+$1.396.046 millones COP; el Ebitda alcanzó $433.330 millones COP y el margen 31%, un porcentaje que
+se ha mantenido a la par del sector.
+En este aspecto, es importante también destacar el acuerdo alcanzado con Telefónica que puso fin a 12
+años de litigio, calificado como probable, y que generaba intereses de mora por aproximadamente $800
+millones COP mensuales (teniendo en cuenta el promedio del último año). El acuerdo alcanzado ascendió a $114.900 millones COP, una cifra inferior a la provisionada por la compañía, que también puso
+punto final a cualquier litigio futuro sobre este tema pues comprende, no solo el período en disputa, sino
+cualquier reclamación relacionada hasta el 31 de diciembre de 2007.
+Adicionalmente, Moody’s mantuvo la perspectiva de la empresa en estable al tiempo que confirmó la calificación internacional en Ba3. Para la calificadora, ETB mantiene una liquidez adecuada con una deuda
+pequeña a corto plazo y una generación de efectivo con proyección suficiente para financiar inversiones
+de capital en el futuro cercano.
+La conexión humana
+mueve las fibras de ETB
+En el 2021 se diseñó un nuevo modelo de trabajo híbrido para responder al contexto laboral que ha dejado la pandemia, a la vez que interpretó el momento social y económico por el que pasaba la ciudad. Así,
+el 19 de octubre comenzó la ejecución de la campaña ‘En un 2X3, lo mejor de dos mundos’, cuyo propósito fue contribuir con la reactivación económica, el cuidado del medio ambiente y el fortalecimiento de
+los lazos familiares, mientras seguíamos conectando con pasión a la ciudad; es decir, tomar los mejores
+aprendizajes del mundo virtual y real para emplearlos en la construcción de la nueva realidad.
+Así mismo, se puso en marcha el plan ‘Cuidados en Red’ a través del cual durante el 2021 se pudo generar un espacio acondicionado por la Caja de Compensación Cafam para promover la vacunación de 1.951
+colaboradores de cualquier EPS, así como 1.412 familiares entre padres, cónyuges, hijos y hermanos y
+que continuará durante el 2022 y el tiempo que la pandemia así lo exija. Además de la vacunación, los
+trabajadores que resultaron positivos para Covid-19 o vivieron su impacto emocional, pudieron contar
+con el acompañamiento médico y psicológico que la empresa diseñó para contribuir con su bienestar,
+junto con la toma de pruebas, el seguro de servicios funerarios, entre otros.
+Otro proyecto enfocado en la conexión humana fue la campaña ‘La ola azul’, creada para apoyar el cambio de diseño y color de los uniformes de los trabajadores en terrero de acuerdo con sus necesidades.
+Con los nuevos uniformes logramos incentivar el orgullo de llevar esta prenda por toda la ciudad, pero
+además sembramos en nuestros trabajadores el deseo de ayudar al Planeta, a familias emprendedoras
+y a niñas y niños de escasos recursos, a través de la segunda fase denominada ‘Dale nueva vida a tus
+uniformes antiguos’, que se basa en el concepto de “Economía Circular”.
+Los colaboradores entregaron overoles y batas en desuso, que, en
+alianza con la Corporación Mundial de la Mujer Colombia, fueron
+transformados en morrales y cartucheras que tendrán como destino
+final niñas y niños de escasos recursos como parte de la estrategia
+de Responsabilidad Social de ETB. Así, lo que estaba destinado a ser
+un desecho contaminante se convirtió en fuente de trabajo para 33
+emprendedores de estratos 1 y 2, así como una contribución para la
+renovación ambiental al evitar una huella de carbono de 19.283,7 kilogramos equivalentes de CO2.
+Y para cerrar este aspecto, vale la pena destacar la participación en
+la campaña ‘Segundas oportunidades’ en la que, de la mano de la
+Fundación Acción Interna, se acompañó en el 2021 a una población
+pospenada que inmediatamente después de terminar su condena intramural, encontraron en el kit ‘Bienvenida a la libertad’ herramientas
+que facilitaron su resocialización, como celulares con una sim card
+de ETB y un plan de voz y datos durante un año, así como una tarjeta
+TuLlave para el uso de Transmilenio, entre otros, que les permitieron
+conectar con sus nuevas posibilidades.
+En nuestro objetivo de continuar desarrollando prácticas corporativas en materia de equidad de género,
+se destaca que el 45% del comité de alta dirección, así como el 30% de la Junta Directiva y el 37% de las
+gerencias y direcciones de ETB, están integradas por mujeres.
+El compromiso de ETB
+con la sostenibilidad
+Además de los proyectos de sostenibilidad anteriormente mencionados, cabe resaltar que a través del
+desarrollo de la estrategia corporativa 2020- 2030, ETB aporta al logro de 9 objetivos de desarrollo
+sostenible: fin de la pobreza, educación de calidad, igualdad de género, trabajo decente y crecimiento
+económico, innovación e infraestructura, ciudades y comunidades sostenibles, producción y consumo
+responsable y desarrollo de alianzas para el logro de los ODS.
+En ese contexto, se destaca la calificación A obtenida por ETB en la medición bajo metodología MSCI de
+los criterios ASG (ambientales, sociales y gobierno corporativo), hecha por el Grupo Bancolombia. Esta
+calificación ubica a ETB en el estándar de la industria y por encima del promedio del MSCI Colcap, al destacar el desempeño de la compañía en temas sociales, aporte al cierre de la brecha digital, seguridad y
+privacidad de la información, gestión laboral y transparencia.
+Adicionalmente, es importante hacer referencia a la recertificación y fortalecimiento del Sistema de
+Gestión Ambiental, al continuar con la medición de la huella de carbono -13.000 toneladas equivalentes
+de CO2- y avanzar en su mitigación a través de la siembra de árboles y la implementación de buenas
+prácticas de economía circular orientadas al manejo integral de los residuos generados en la operación
+de la empresa, que son aprovechados en un 80% al incorporarlos en la cadena productiva de otras
+compañías.
+Sin duda, en la lista de prioridades de este año está cumplirle a Colombia a través de
+la conectividad para niños y niñas en zonas rurales del país. En el 2021 ocupamos la
+agenda mediática nacional al recibir la asignación del contrato de Centros Digitales
+de MinTIC, que se ejecutará en 16 departamentos. Es el proyecto más ambicioso que
+ha tenido un Gobierno en materia de conectividad y tanto para ETB, como para su
+filial Skynet, es un orgullo haber reunido las condiciones que el país necesita a través
+de nuestra experiencia y capacidades técnicas para llevar internet por primera vez a
+áreas apartadas de la geografía nacional.
+La Unión Temporal ETB NET Colombia Conectada reúne la infraestructura de red, las
+plataformas de seguridad informática, capacidades de soporte, instalación, mantenimiento, proveedores de alto nivel, así como la experiencia en este tipo de proyectos
+para proveer a estas poblaciones, no solo de aparatos, satélites o cables para conectarse, sino del privilegio de ingresar a la sociedad de la información, el aprovechamiento de las oportunidades de la era digital y una proyección laboral antes jamás pensada
+sin diferencias sociales, económicas o culturales.
+Adicionalmente, impulsaremos proyectos de ciudades y territorios inteligentes. En
+este año fortaleceremos la infraestructura de 5 centros de conectividad campesina
+ya en funcionamiento y se instalarán 5 nuevos puntos en Sumapaz con equipos de
+cómputo, acceso WIFI y acompañamiento personalizado para la apropiación de la tecnología por parte de la comunidad. El propósito es que puedan acceder a los servicios
+de las entidades distritales y se fomente su capacitación, así como el emprendimiento
+para la comercialización de productos y servicios locales; es decir, mejorar las dinámicas socioeconómicas de la población a través de las TIC.
+Y finalmente, creemos que las redes neutrales serán el tema de innovación en el sector
+en los próximos años para ofrecer más servicios y optimizar las inversiones de los
+operadores, en donde ETB debe explorar escenarios para avanzar en su proyección futura en un entorno de mercado de alta competencia con multinacionales que manejan
+economía a escala y enormes flujos de caja. La compañía no se quedará atrás en esta
+tendencia como lo ha hecho a lo largo de sus 138 años de historia.
+Buscaremos alternativas para materializar el sueño de hacer de nuestra capital una
+verdadera ciudad inteligente que se destaque en Latinoamérica por ser una de las
+más conectadas del continente, pues de acuerdo con el DNP un aumento de 10 puntos
+porcentuales en la penetración de internet o de 1 mega en la velocidad promedio de
+conexión de los colombianos llevaría a incrementar hasta 1,4 y 1,6 puntos porcentuales en el PIB per cápita respectivamente 4.
+La masificación de internet es para nuestra compañía un deseo genuino de contribuir
+con el cierre de la brecha digital, especialmente si involucra los sueños de los niños y
+niñas en Colombia, particularmente en un contexto global tan complejo que tiene en
+las telecomunicaciones una herramienta para superar la crisis social y económica que
+trajo la pandemia. Así, podemos reafirmar a los accionistas y a los ciudadanos de Bogotá-Región que, para este 2022 el compromiso que tenemos desde la alta dirección,
+la Junta Directiva, los colaboradores y aliados, es seguir conectando con pasión las
+emociones de nuestros clientes en línea con la esperanza de todo un país, a través de
+esta empresa que sigue fortaleciendo su valor para todos los colombianos.
