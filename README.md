@@ -25,13 +25,15 @@ Contiene los datos brutos y los resultados de los análisis. Se divide en:
 Notebooks organizados en carpetas que reflejan las etapas del análisis:
 #### text-preparation
 - [1. Lectura_txt.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/1-Read-text/1.%20Lectura_txt.ipynb): Lectura y procesamiento inicial de los archivos `.txt`.
-- [2. PreparaciónTexto.ipynb](notebooks/text-preparation/2.%20PreparaciónTexto.ipynb): Limpieza y preparación de textos para análisis subsiguiente.
+- [2. PreparaciónTexto.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/1-Read-text/2.Preparaci%C3%B3nTexto.ipynb): Limpieza y preparación de textos para análisis subsiguiente.
 
 #### text-analysis
-- [3. Similaridad_Cartas.ipynb](notebooks/text-analysis/3.%20Similaridad_Cartas.ipynb): Análisis de similaridad entre cartas.
-- [4. LSA.ipynb](notebooks/text-analysis/4.%20LSA.ipynb): Aplicación de Análisis Semántico Latente.
-- [5. AnalisisSentimientos.ipynb](notebooks/text-analysis/5.%20AnalisisSentimientos.ipynb): Análisis de sentimiento de los textos.
+- [3. Similaridad_Cartas.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/2-text-analysis/3.Similaridad_Cartas.ipynb): Análisis de similaridad entre cartas.
+- [4. LSA.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/2-text-analysis/4.LSA.ipynb): Aplicación de Análisis Semántico Latente.
+- [5. AnalisisSentimientos.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/2-text-analysis/5.AnalisisSentimientos.ipynb): Análisis de sentimiento de los textos.
 
 #### complementary-processes
-- [6. CAPM.ipynb](notebooks/complementary-processes/6.%20CAPM.ipynb): Análisis del modelo CAPM en el mercado.
-- [7. Analisis_final.ipynb](notebooks/complementary-processes/7.%20Analisis_final.ipynb): Conclusiones finales del proyecto.
+- [6. CAPM.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/3-complementary-processes/6.CAPM.ipynb): Análisis del modelo CAPM (Capital Asset Pricing Model) en el índice de referencia COLCAP.
+- [7. Analisis_final.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/3-complementary-processes/7.Analisis_final.ipynb): Conclusiones finales del proyecto.
+#### complementary-processes
+- [Dashboard análisis de discurso de cartas de máximos responsables.](https://app.powerbi.com/view?r=eyJrIjoiM2Q0ZGRlYzgtMTFiNC00OGIyLThjYzEtNmJlNDE4OWQxNjEwIiwidCI6IjI3MWRmNTg0LWFiNjQtNDM3Zi04NWI2LTgwZmY5YmVmNmM5ZiIsImMiOjZ9): Para una visualización interactiva de los resultados, visita el dashboard de análisis de métricas obtenidas en el trabajo.
