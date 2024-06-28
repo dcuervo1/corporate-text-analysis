@@ -24,7 +24,7 @@ Contiene los datos brutos y los resultados de los análisis. Se divide en:
 ### notebooks
 Notebooks organizados en carpetas que reflejan las etapas del análisis:
 #### text-preparation
-- [1. Lectura_txt.ipynb](notebooks/text-preparation/1.%20lectura_txt.ipynb): Lectura y procesamiento inicial de los archivos `.txt`.
+- [1. Lectura_txt.ipynb](notebooks/text-preparation/1.%20Lectura_txt.ipynb): Lectura y procesamiento inicial de los archivos `.txt`.
 - [2. PreparaciónTexto.ipynb](notebooks/text-preparation/2.%20PreparaciónTexto.ipynb): Limpieza y preparación de textos para análisis subsiguiente.
 
 #### text-analysis
