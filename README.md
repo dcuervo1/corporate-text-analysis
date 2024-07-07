@@ -26,9 +26,9 @@ Se almacenan los resultados de cada notebook:
 ## notebooks dentro de carpeta Tesis
 Notebooks organizados que reflejan las etapas del análisis, el primer archivo es un `.py` que ejecuta todos los notebooks, en este se encuentra la versión de python que se requiere para la ejecución de estos notebooks de forma adecuada, tambien se pueden ejecutar en orden cada archivo `.ipynb`, con el fin de verificar si las librerias y dependencias se encuentran en el entorno de ejecución actual.
 
-- [0. Run_Notebooks](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/0.Read_Notebook.py): Script `.py` para la ejecución de los notebooks.
+- [0. Run_Notebooks](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/0.Run_Notebooks.py): Script `.py` para la ejecución de los notebooks.
 - [1. Lectura_txt.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/1.Lectura_txt.ipynb): Lectura y procesamiento inicial de los archivos `.txt`.
-- [2. PreparaciónTexto.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/1-Read-text/2.Preparaci%C3%B3nTexto.ipynb): Limpieza y preparación de textos para análisis subsiguiente.
+- [2. PreparaciónTexto.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/2.PreparaciónTexto.ipynb): Limpieza y preparación de textos para análisis subsiguiente.
 - [3. Similaridad_Cartas.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/3.Similaridad_Cartas.ipynb): Análisis de similaridad entre cartas.
 - [4. LSA.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/4.LSA.ipynb): Aplicación de Análisis Semántico Latente.
 - [5. AnalisisSentimientos.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/5.AnalisisSentimientos.ipynb): Análisis de sentimiento de los textos.
