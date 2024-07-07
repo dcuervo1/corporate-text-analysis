@@ -12,28 +12,29 @@ Explorar el uso de técnicas de minería de texto y procesamiento de lenguaje na
 - Analizar las métricas y patrones identificados en las cartas y su posible influencia en indicadores como el precio de las acciones y la rentabilidad.
 - Evaluar la eficacia de las técnicas utilizadas para extraer información de las cartas y su posible impacto en los comportamientos de los indicadores bursátiles.
 
-## Directorios
+## Directorios dentro de carpeta Tesis
 Este repositorio está organizado en directorios que facilitan la navegación y comprensión de las diversas etapas y componentes del análisis:
 
-### datasets
-Contiene los datos brutos y los resultados de los análisis. Se divide en:
-- `raw_texts/`: Archivos `.txt` con las cartas de los responsables.
-- `results-data/`: Resultados de las métricas y modelos aplicados.
-- `supporting_data/`: Datos de apoyo como sectores de empresas y rendimientos históricos.
+### 1.0.Source
+Contiene los datos crudos y de soporte de los análisis. Se divide en:
+- `Colcap_DataText/`: Archivos `.txt` con cada una de las cartas de los responsables.
+- `Contexto/`: Datos de apoyo como sectores de empresas y rendimientos históricos.
+### 1.1.Output
+Se almacenan los resultados de cada notebook:
+- `1.1.Output/`: Resultados de las métricas y modelos aplicados en único archivo `.csv`.
 
-### notebooks
-Notebooks organizados en carpetas que reflejan las etapas del análisis:
-#### text-preparation
-- [1. Lectura_txt.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/1-Read-text/1.%20Lectura_txt.ipynb): Lectura y procesamiento inicial de los archivos `.txt`.
-- [2. PreparaciónTexto.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/1-Read-text/2.Preparaci%C3%B3nTexto.ipynb): Limpieza y preparación de textos para análisis subsiguiente.
+## notebooks dentro de carpeta Tesis
+Notebooks organizados que reflejan las etapas del análisis, el primer archivo es un `.py` que ejecuta todos los notebooks, en este se encuentra la versión de python que se requiere para la ejecución de estos notebooks de forma adecuada, tambien se pueden ejecutar en orden cada archivo `.ipynb`, con el fin de verificar si las librerias y dependencias se encuentran en el entorno de ejecución actual.
 
-#### text-analysis
-- [3. Similaridad_Cartas.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/2-text-analysis/3.Similaridad_Cartas.ipynb): Análisis de similaridad entre cartas.
-- [4. LSA.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/2-text-analysis/4.LSA.ipynb): Aplicación de Análisis Semántico Latente.
-- [5. AnalisisSentimientos.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/2-text-analysis/5.AnalisisSentimientos.ipynb): Análisis de sentimiento de los textos.
+- [0. Run_Notebooks](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/0.Read_Notebook.py): Script `.py` para la ejecución de los notebooks.
+- [1. Lectura_txt.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/1.Lectura_txt.ipynb): Lectura y procesamiento inicial de los archivos `.txt`.
+- [2. PreparaciónTexto.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/1-Read-text/2.Preparaci%C3%B3nTexto.ipynb): Limpieza y preparación de textos para análisis subsiguiente.
+- [3. Similaridad_Cartas.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/3.Similaridad_Cartas.ipynb): Análisis de similaridad entre cartas.
+- [4. LSA.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/4.LSA.ipynb): Aplicación de Análisis Semántico Latente.
+- [5. AnalisisSentimientos.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/5.AnalisisSentimientos.ipynb): Análisis de sentimiento de los textos.
 
-#### complementary-processes
-- [6. CAPM.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/3-complementary-processes/6.CAPM.ipynb): Análisis del modelo CAPM (Capital Asset Pricing Model) en el índice de referencia COLCAP.
-- [7. Analisis_final.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/notebooks/3-complementary-processes/7.Analisis_final.ipynb): Conclusiones finales del proyecto.
-#### complementary-processes
+### Proceso complementario de análisis
+- [6. CAPM.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/6.CAPM.ipynb): Análisis del modelo CAPM (Capital Asset Pricing Model) en el índice de referencia COLCAP.
+- [7. Analisis_complementario.ipynb](https://github.com/dcuervo1/corporate-text-analysis/blob/main/Tesis/7.Analisis_complementario.ipynb): Analisis de exploración y soporte de resultados.
+
 - [Dashboard análisis de discurso de cartas de máximos responsables.](https://app.powerbi.com/view?r=eyJrIjoiM2Q0ZGRlYzgtMTFiNC00OGIyLThjYzEtNmJlNDE4OWQxNjEwIiwidCI6IjI3MWRmNTg0LWFiNjQtNDM3Zi04NWI2LTgwZmY5YmVmNmM5ZiIsImMiOjZ9): Para una visualización interactiva de los resultados, visita el dashboard de análisis de métricas obtenidas en el trabajo.
